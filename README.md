@@ -37,3 +37,4 @@ curl -X POST http://localhost:8080/api/dashboard -H "Content-Type: application/j
 ```
 curl http://localhost:8080/api/dashboard/1
 ```
+
